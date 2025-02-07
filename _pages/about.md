@@ -27,8 +27,26 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey! I’m Harvey-Jay, an engineer who loves building, automating, and experimenting with tech. Robotics, Medical-Robotics, Automation and Networking are some of my interests and I enjoy finding creative ways to apply engineering to real-world problems and everyday life.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Right now, I’m a MEng Mechatronics and Robotics student at The University of Hull, diving deep into medical robotics, mechatronics, and hardware/software building. When I’m not studying, I’m working on side projects that further my understanding of engineering.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+📩 Email me at [Your Email]
+What I’m Working On:
+
+    Writing efficient, scalable code for [something specific you’re working on]
+    Exploring AI and finance—automating analysis, testing trading strategies
+    Experimenting with AI-generated art (GANs, creative coding)
+    Tinkering with hardware—modding handheld devices, building automation tools
+
+Interests:
+
+🔧 Robotics, Automation, Cybersecurity, Networking, AI, Open-Source Development and Linux Systems
+Current Projects:
+
+📱 Short-term: Repairing/Hacking handheld devices
+💻 Mid-term: Developing an AI-powered cooking/recipe database
+🕹 Long-term: Building a handheld emulation device
+
+Always looking for interesting projects and people to work with—let’s build something cool together! 🚀
