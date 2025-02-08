@@ -4,7 +4,7 @@ title: Advancing Stroke Rehabilitation, a Neuroplasticity-Driven Approach
 description: My end of (3rd) year disseration project for my Mechatronics and Robotics MEng degree.
 img: assets/img/7.jpg
 importance: 3
-category: University Work
+category: work
 ---
 
 This project presents a novel stroke rehabilitation device designed to aid in hand recovery during the acute stages of recovery (early stages). Utilizing 3D printing technology and Arduino-controlled servo motors, the device offers a customizable, cost-effective, and accessible solution for mild to medium stroke survivors.
