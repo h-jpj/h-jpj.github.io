@@ -3,9 +3,8 @@ layout: page
 title: Home-Lab
 description: Media-Server, Cloud-Storage, VPN, and more.
 img: assets/img/12.jpg
-importance: 1
-category: work
-related_publications: true
+importance: 4
+category: fun
 ---
 
 This project is about creating a Home-Lab. 

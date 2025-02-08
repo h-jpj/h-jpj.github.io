@@ -3,8 +3,8 @@ layout: page
 title: DNS-Server
 description: a project with a background image and giscus comments
 img: assets/img/11.jpg
-importance: 2
-category: work
+importance: 4
+category: fun
 giscus_comments: true
 ---
 
