@@ -2,12 +2,14 @@
 layout: page
 title: Advancing Stroke Rehabilitation, a Neuroplasticity-Driven Approach
 description: My end of (3rd) year disseration project for my Mechatronics and Robotics MEng degree.
-img: assets/img/7.jpg
+img: assets/img/Components_Asembly.jpg
 importance: 3
 category: work
 ---
 
-This project presents a novel stroke rehabilitation device designed to aid in hand recovery during the acute stages of recovery (early stages). Utilizing 3D printing technology and Arduino-controlled servo motors, the device offers a customizable, cost-effective, and accessible solution for mild to medium stroke survivors.
+This project involves the design and development of a stroke rehabilitation device aimed at aiding hand recovery during the early stages of stroke rehabilitation. The device leverages 3D printing and Arduino-controlled servo motors to offer a cost-effective, customizable, and accessible solution for mild to medium stroke survivors.
+
+The goal is to develop a practical solution that utalizes neuroplasticity in stroke patients by mimicking hand movements needed for recovery to induce dendritic growth. This device can be used by patients at home to complement traditional rehabilitation methods.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -53,5 +55,5 @@ Key features include:
     Affordable and adaptable design, integrating off-the-shelf electronics
     Iterative prototyping and testing, ensuring user comfort and effectiveness
 
-This device aims to empower caregivers and patients with home-based rehabilitation options, complementing traditional therapy methods. While challenges such as full fist clenching remain, the project is another tool to the arsenal of assistive stroke recovery technology.
+This device aims to empower caregivers and patients with home-based rehabilitation options, complementing traditional therapy methods. The stroke rehabilitation device provides a low-cost, customizable solution for stroke patients to continue rehabilitation at home. Although challenges like achieving a full hand strech remain, the device complements traditional therapy methods and enhances the patient’s recovery process in theory. This project shows the potential of neuroplasticity-driven rehabilitation technologies to support stroke survivors in their journey to regain hand function at home, additionally hoping to relief pressure off of the UK's NHS.
 

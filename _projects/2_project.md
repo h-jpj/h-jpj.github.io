@@ -2,17 +2,17 @@
 layout: page
 title: DNS-Server
 description: a project with a background image and giscus comments
-img: assets/img/11.jpg
+img: assets/img/PI-DNS_Logo.jpg
 importance: 4
 category: fun
 giscus_comments: true
 ---
 
-This project is about repurposing my old Samgsung Galaxy S8.
-Since I'm a student I have limited funds and at the time the Raspberry PI4 and PI5 where a little out of my price range.
-However I still had my old my phone, albiet a little beaten up but still fully functional and stronger than a PI4.
-I loaded LinageOS onto it and installed Termux and set up PI-Hole on it. Samgsung didn't make it easy.
-It was alot of effort but after a whole day of working on it and getting it to work I later find out that there is an android version of PI-Hole so I ended up using that instead due to being easier to maintain but at least I know two ways to deal with it now!
+This project focuses on repurposing an old Samsung Galaxy S8 as a DNS server and ad blocker using Pi-Hole. As a student with limited funds, I was looking for a budget-friendly alternative to a Raspberry Pi 4 or Raspberry Pi 5. I had an old phone, which, though a little worn, was still functional and more powerful than a Pi4, so I decided to make it work as a server.
+
+I installed LineageOS and Termux on the device, and then set up Pi-Hole for DNS resolution and ad-blocking functionality. Originally I was installing Pi-hole with Termux packages however there were big issues with opening ports. While it was a bit of a challenge to get it up and running, I ultimately found an official Android version of Pi-Hole, which made installation and maintenance easier.
+
+The project was a learning experience in both software and hardware. The phone now functions as the main DNS server for all my devices, including my partner’s devices, and it handles more traffic than I expected.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,8 +38,13 @@ All of my machines use this as their main DNS server, including my partners mach
     Showing the Phone plugged into the Home-Lab so it never turns off and the software we used, Termux.
 </div>
 
-In the future I will be trying a the Termux method again however I will be using Docker to contain the Pi-Hole software and work from there.
-I may also try this with an alternative to a Raspberry-Pi such as NanoPC-T4 in order to learn more about computers, electronics, software and so on.
+After a whole day of work setting it up, I had Pi-Hole running on the Galaxy S8. The phone acts as my primary DNS server, filtering out unwanted ads and malicious DNS queries for all the devices on my network. It serves as a robust solution, handling a significant amount of traffic without breaking a sweat, which I wasn’t sure a Pi4 could even handle.
+
+The Pi-Hole setup also ensures security by preventing connections to known malicious domains, adding an extra layer of protection to my network.
+
+In the future, I plan to revisit this setup and containerize Pi-Hole using Docker to further isolate the service and make it easier to maintain and update. I also want to explore alternatives to the Raspberry Pi, like the NanoPC-T4, for more learning about hardware and software integration.
+
+Overall, repurposing the Galaxy S8 as a DNS server has been an incredibly cost-effective solution to meet my needs. This project not only helped me learn more about Linux environments, Android and networking but also proved that with some ingenuity, even older devices can find new life in technical projects.
 
 <!--{% raw %}
 
