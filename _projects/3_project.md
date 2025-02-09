@@ -2,7 +2,7 @@
 layout: page
 title: Advancing Stroke Rehabilitation, a Neuroplasticity-Driven Approach
 description: My end of (3rd) year disseration project for my Mechatronics and Robotics MEng degree.
-img: assets/img/Components_Asembly.jpg
+img: assets/img/Components_Assembled.jpg
 importance: 3
 category: work
 ---

@@ -9,10 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hull University, department of Computer Science</p>
-    <p>Hull</p>
+    <p>The University of Hull</p>
+    <p>Department of Computer Science</p>
+    <p>Hull City</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+#selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 latest_posts:
@@ -32,7 +33,7 @@ What I’m Working On:
     📱 Short-term: Repairing/Hacking handheld devices
     💻 Mid-term: Developing an AI-powered cooking/recipe database
     🕹 Long-term: Building a handheld emulation device
-    Tinkering with hardware—modding handheld devices, building automation tools
+    Tinkering with hardware—modding and building automation tools
 
 Interests:
 🔧 Robotics, Automation, Cybersecurity, Networking, AI, Open-Source Development and Linux Systems
