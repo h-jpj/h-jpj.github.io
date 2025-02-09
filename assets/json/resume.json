@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "Linkedin",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "Harvey-Jay Portas-Jones",
+        "url": "https://www.linkedin.com/in/harvey-jay-portas-jones-7584b1350/"
       }
     ]
   },
@@ -49,7 +49,7 @@
     {
       "institution": "University of Hull",
       "location": "Kingston upon Hull, United Kingdom",
-      "url": "https://www.uzh.ch/",
+      "url": "https://www.hull.ac.uk",
       "area": "Engineering and Computer Science",
       "studyType": "MEng",
       "startDate": "2021-10-20",
@@ -60,15 +60,15 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2021-09-22",
+      "name": "Mechatronics and Robotics",
+      "date": "2025-09-22",
       "issuer": "University of Hull",
       "url": "https://www.hull.ac.uk/",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Level 3 Mechanical, Electrical and Electronic Engineering",
-      "date": "2018-09-22",
+      "date": "2012-06-22",
       "issuer": "Grimsby Institue",
       "url": "https://grimsby.ac.uk/",
       "icon": "fa-solid fa-tag"
@@ -82,7 +82,9 @@
       "keywords": [
         "Mechatronics",
         "Robotics",
-        "Engineering",
+        "Electronic Engineering",
+        "Mechanical Engineering",
+        "Software Engineering",
         "Computer Science"
       ]
     }
@@ -107,7 +109,8 @@
         "Networking",
         "Cyber Security",
         "Automation",
-        "Electronics"
+        "Electronics",
+        "Video Games"
       ]
     }
   ],
@@ -115,7 +118,7 @@
     {
       "name": "Arm Rehabilitation Exoskeleton",
       "summary": "Building an exoskeleton to aid in acute stages of stroke recovery using an EpochX Portable EEG headset.",
-      "highlights": ["Robotics", "Electronic Engineering", "Mechanical Engineering", "3D Printing"],
+      "highlights": ["Robotics", "Electronic Engineering", "Mechanical Engineering", "Software Engineering", "3D Printing"],
       "startDate": "2024-09-22",
       "endDate": "2025-06-012",
       "url": "https://github.com/ProjectEggsoskeleton"
