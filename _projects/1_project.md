@@ -8,7 +8,7 @@ category: fun
 ---
 
 This project is about creating a Home-Lab. 
-This will host all of my media, act as a cloud storage, video game server and more.
+This will host all of my media, act as a cloud storage using (MariaDB a fork of MySQL), video game server and more.
 
 
 <div class="row">
