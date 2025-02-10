@@ -117,7 +117,7 @@
     {
       "name": "Arm Rehabilitation Exoskeleton",
       "summary": "Building an exoskeleton to aid in acute stages of stroke recovery using an EpochX Portable EEG headset.",
-      "highlights": ["Robotics", "Electronic Engineering", "Mechanical Engineering", "Software Engineering", "3D Printing"],
+      "highlights": ["Robotics", "Electronic Engineering", "Mechanical Engineering", "Software Engineering", "3D Printing", "Networking"],
       "startDate": "2024-09-22",
       "endDate": "2025-06-012",
       "url": "https://github.com/ProjectEggsoskeleton"
