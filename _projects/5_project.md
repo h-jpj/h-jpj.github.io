@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 5
+title: Exoskeleton Rehabilitation - In Progress
 description: Exoskeleton Rehabilitation Arm.
 img: assets/img/1.jpg
 importance: 1
