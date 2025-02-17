@@ -13,7 +13,7 @@ The goal is to develop a practical solution that utalizes neuroplasticity in str
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Components/jpg" title="Diagram of Components" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Components/Components.jpg" title="Diagram of Components" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Components_Asembly.jpg" title="Partially Built" class="img-fluid rounded z-depth-1" %}
