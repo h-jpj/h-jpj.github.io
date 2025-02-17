@@ -94,7 +94,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-advancing-stroke-rehabilitation-a-neuroplasticity-driven-approach",
           title: 'Advancing Stroke Rehabilitation, a Neuroplasticity-Driven Approach',
-          description: "My end of (3rd) year disseration project for my Mechatronics and Robotics MEng degree.",
+          description: "My end of (3rd) year dissertation project for my Mechatronics and Robotics MEng degree.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-custom-pokemon-game",
