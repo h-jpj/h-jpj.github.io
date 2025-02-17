@@ -11,73 +11,39 @@ This project involves the design and development of a stroke rehabilitation devi
 
 The goal is to develop a practical solution that utalizes neuroplasticity in stroke patients by mimicking hand movements needed for recovery to induce dendritic growth. This device can be used by patients at home to complement traditional rehabilitation methods.
 
-<head>
-    <style>
-        /* Ensure all images have the same height and width */
-        .img-fluid {
-            width: 100%;   /* Makes the image responsive */
-            height: auto;  /* Maintains aspect ratio */
-            object-fit: cover; /* Ensures the images fill the container without distortion */
-            max-width: 100%; /* Prevents images from exceeding container width */
-        }
-
-        /* Increased size by 150% (from 300px to 450px, and from 200px to 300px) */
-        .img-custom {
-            width: 450px;  /* 150% of 300px */
-            height: 300px; /* 150% of 200px */
-            object-fit: cover;  /* Ensures images do not stretch */
-        }
-
-        /* For alignment and uniform spacing */
-        .row {
-            margin-bottom: 20px; /* Adds space between rows */
-        }
-
-        .caption {
-            text-align: center;
-            font-size: 14px;
-            margin-top: 10px;
-        }
-    </style>
-</head>
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Components/Components.jpg" title="Diagram of Components" class="img-fluid img-custom rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Components.jpg" title="Diagram of Components" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Components_Asembly.jpg" title="Partially Built" class="img-fluid img-custom rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Components_Asembly.jpg" title="Partially Built" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Components_Completely_Assembled.jpg" title="Complete Device" class="img-fluid img-custom rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Components_Completely_Assembled.jpg" title="Complete Device" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 <div class="caption">
     Build Proccess of the Device
 </div>
-
-Bellow is the device without out the mount and circuitry attached for a better visual. The device has 2 states and two algoritms. Algo 1 will stretch each finger individually and then clench. Algo 2 will stretch all the fingers at once and then clench. These algorithms do each 5 times to save for time during demonstration as these algorithms will normally occur for about 10-15mins depending on the paitent. So a total of a 20 to 30min sessions. Additionally I've displayed the flow diagram. 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/State1_State2.jpg" title="Two States that the Device has" class="img-fluid img-custom rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/State1_State2.jpg" title="Two States that the Device has" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 <div class="caption">
     This is the device in each state. 
 </div>
 
+Bellow is the device without out the mount and circuitry attached for a better visual. The device has 2 states and two algoritms. Algo 1 will stretch each finger individually and then clench. Algo 2 will stretch all the fingers at once and then clench. These algorithms do each 5 times to save for time during demonstration as these algorithms will normally occur for about 10-15mins depending on the paitent. So a total of a 20 to 30min sessions. Additionally I've displayed the flow diagram. 
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Components_Assembled.jpg" title="Components Without Circuitry_Mounted" class="img-fluid img-custom rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Components_Assembled.jpg" title="Components Without Circuitry_Mounted" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/FlowDiagram.jpg" title="Flow Diagram of Code" class="img-fluid img-custom rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/FlowDiagram.jpg" title="Flow Diagram of Code" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 <div class="caption">
     Device without circuitry mounted. The flow diagram shows how the device operates.
 </div>
