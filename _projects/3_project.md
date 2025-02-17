@@ -11,23 +11,38 @@ This project involves the design and development of a stroke rehabilitation devi
 
 The goal is to develop a practical solution that utalizes neuroplasticity in stroke patients by mimicking hand movements needed for recovery to induce dendritic growth. This device can be used by patients at home to complement traditional rehabilitation methods.
 
+<!-- Include Lightbox2 CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightbox2@2.11.3/dist/css/lightbox.min.css">
+
+<!-- Include Lightbox2 JS -->
+<script src="https://cdn.jsdelivr.net/npm/lightbox2@2.11.3/dist/js/lightbox.min.js"></script>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Components.jpg" title="Diagram of Components" class="img-fluid rounded z-depth-1" %}
+        <a href="assets/img/Components.jpg" data-lightbox="device-gallery" data-title="Diagram of Components">
+            <img src="assets/img/Components.jpg" class="img-fluid rounded z-depth-1" alt="Diagram of Components">
+        </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Components_Asembly.jpg" title="Partially Built" class="img-fluid rounded z-depth-1" %}
+        <a href="assets/img/Components_Asembly.jpg" data-lightbox="device-gallery" data-title="Partially Built">
+            <img src="assets/img/Components_Asembly.jpg" class="img-fluid rounded z-depth-1" alt="Partially Built">
+        </a>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Components_Completely_Assembled.jpg" title="Complete Device" class="img-fluid rounded z-depth-1" %}
+        <a href="assets/img/Components_Completely_Assembled.jpg" data-lightbox="device-gallery" data-title="Complete Device">
+            <img src="assets/img/Components_Completely_Assembled.jpg" class="img-fluid rounded z-depth-1" alt="Complete Device">
+        </a>
     </div>
 </div>
 <div class="caption">
-    Build Proccess of the Device
+    Build Process of the Device
 </div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/State1_State2.jpg" title="Two States that the Device has" class="img-fluid rounded z-depth-1" %}
+        <a href="assets/img/State1_State2.jpg" data-lightbox="device-states" data-title="Two States that the Device has">
+            <img src="assets/img/State1_State2.jpg" class="img-fluid rounded z-depth-1" alt="Two States">
+        </a>
     </div>
 </div>
 <div class="caption">
@@ -38,10 +53,14 @@ Bellow is the device without out the mount and circuitry attached for a better v
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Components_Assembled.jpg" title="Components Without Circuitry_Mounted" class="img-fluid rounded z-depth-1" %}
+        <a href="assets/img/Components_Assembled.jpg" data-lightbox="device-flow" data-title="Components Without Circuitry Mounted">
+            <img src="assets/img/Components_Assembled.jpg" class="img-fluid rounded z-depth-1" alt="Components Without Circuitry">
+        </a>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/FlowDiagram.jpg" title="Flow Diagram of Code" class="img-fluid rounded z-depth-1" %}
+        <a href="assets/img/FlowDiagram.jpg" data-lightbox="device-flow" data-title="Flow Diagram of Code">
+            <img src="assets/img/FlowDiagram.jpg" class="img-fluid rounded z-depth-1" alt="Flow Diagram">
+        </a>
     </div>
 </div>
 <div class="caption">
