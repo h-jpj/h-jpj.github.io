@@ -13,21 +13,21 @@ The goal is to develop a practical solution that utalizes neuroplasticity in str
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Components.jpg" title="Diagram of Components" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Components.jpg" title="Diagram of Components" class="img-fluid rounded z-depth-1 standardized-image" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Components_Asembly.jpg" title="Partially Built" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Components_Asembly.jpg" title="Partially Built" class="img-fluid rounded z-depth-1 standardized-image" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Components_Completely_Assembled.jpg" title="Complete Device" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Components_Completely_Assembled.jpg" title="Complete Device" class="img-fluid rounded z-depth-1 standardized-image" %}
     </div>
 </div>
 <div class="caption">
-    Build Proccess of the Device
+    Build Process of the Device
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/State1_State2.jpg" title="Two States that the Device has" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/State1_State2.jpg" title="Two States that the Device has" class="img-fluid rounded z-depth-1 standardized-image" %}
     </div>
 </div>
 <div class="caption">
@@ -57,3 +57,10 @@ Key features include:
 
 This device aims to empower caregivers and patients with home-based rehabilitation options, complementing traditional therapy methods. The stroke rehabilitation device provides a low-cost, customizable solution for stroke patients to continue rehabilitation at home. Although challenges like achieving a full hand strech remain, the device complements traditional therapy methods and enhances the patient’s recovery process in theory. This project shows the potential of neuroplasticity-driven rehabilitation technologies to support stroke survivors in their journey to regain hand function at home, additionally hoping to relief pressure off of the UK's NHS.
 
+<style>
+    .standardized-image {
+        width: 100%; /* Ensure the image spans the full width of its container */
+        height: 750px; /* Set a consistent height for all images */
+        object-fit: contain; /* Preserve the aspect ratio without cropping */
+    }
+</style>
