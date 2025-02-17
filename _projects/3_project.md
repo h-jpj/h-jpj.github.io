@@ -38,10 +38,10 @@ Bellow is the device without out the mount and circuitry attached for a better v
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Components_Assembled.jpg" title="Components Without Circuitry_Mounted" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Components_Assembled.jpg" title="Components Without Circuitry_Mounted" class="img-fluid rounded z-depth-1 standardized-image" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/FlowDiagram.jpg" title="Flow Diagram of Code" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/FlowDiagram.jpg" title="Flow Diagram of Code" class="img-fluid rounded z-depth-1 standardized-image" %}
     </div>
 </div>
 <div class="caption">
@@ -60,7 +60,7 @@ This device aims to empower caregivers and patients with home-based rehabilitati
 <style>
     .standardized-image {
         width: 100%; /* Ensure the image spans the full width of its container */
-        height: 750px; /* Set a consistent height for all images */
+        height: 300px; /* Set a consistent height for all images */
         object-fit: contain; /* Preserve the aspect ratio without cropping */
     }
 </style>
