@@ -43,7 +43,7 @@ One of the most complex aspects was managing merge conflicts, which was.... stre
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Displays code base and github file display
 </div>
 
 Working with such a large codebase gave me a deeper understanding of both development and the intricacies of open-source collaboration. The project forced me to adopt a disciplined approach to version control, code reviews, documentation and learning to use git in general.
