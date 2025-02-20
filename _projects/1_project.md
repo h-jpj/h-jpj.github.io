@@ -4,7 +4,7 @@ title: Home-Lab
 description: Media-Server, Cloud-Storage, VPN, and more.
 img: assets/img/Home-Lab.jpg
 importance: 4
-category: fun
+category: Personal
 ---
 
 This Home-Lab serves as an all-in-one server hosting solution for various applications, including a media server, cloud storage, and a VPN. The system is built on a HP EliteDesk 800 G3 SFF, offering an affordable, efficient setup for personal use. Great for a first server.

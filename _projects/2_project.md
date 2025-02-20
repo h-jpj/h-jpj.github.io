@@ -4,7 +4,7 @@ title: DNS-Server
 description: a project with a background image and giscus comments
 img: assets/img/PI-DNS_Logo.jpg
 importance: 4
-category: fun
+category: Personal
 giscus_comments: true
 ---
 

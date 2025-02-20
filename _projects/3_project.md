@@ -4,7 +4,7 @@ title: Advancing Stroke Rehabilitation, a Neuroplasticity-Driven Approach
 description: My end of (3rd) year disseration project for my Mechatronics and Robotics MEng degree.
 img: assets/img/Components_Assembled.jpg
 importance: 3
-category: work
+category: Work
 ---
 
 This project involves the design and development of a stroke rehabilitation device aimed at aiding hand recovery during the early stages of stroke rehabilitation. The device leverages 3D printing and Arduino-controlled servo motors to offer a cost-effective, customizable, and accessible solution for mild to medium stroke survivors.
@@ -45,7 +45,7 @@ Bellow is the device without out the mount and circuitry attached for a better v
     </div>
 </div>
 <div class="caption">
-    Device without circuitry mounted. The flow diagram shows how the device operates.
+    Device without circuitry mounted. The flow diagram shows how the device operates. Open images with a right click, open in new tab for better quality.
 </div>
 
 Key features include:
@@ -54,6 +54,8 @@ Key features include:
     Predefined rehabilitation algorithms to target different muscle groups
     Affordable and adaptable design, integrating off-the-shelf electronics
     Iterative prototyping and testing, ensuring user comfort and effectiveness
+
+For a video demonstration and explaination please visit --> https://youtu.be/kdPMILNz63c
 
 This device aims to empower caregivers and patients with home-based rehabilitation options, complementing traditional therapy methods. The stroke rehabilitation device provides a low-cost, customizable solution for stroke patients to continue rehabilitation at home. Although challenges like achieving a full hand strech remain, the device complements traditional therapy methods and enhances the patient’s recovery process in theory. This project shows the potential of neuroplasticity-driven rehabilitation technologies to support stroke survivors in their journey to regain hand function at home, additionally hoping to relief pressure off of the UK's NHS.
 

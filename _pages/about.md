@@ -24,10 +24,11 @@ latest_posts:
 
 Hey! I’m Harvey-Jay, an engineer who loves building, automating, and experimenting with tech. Robotics, Medical-Robotics, Automation and Networking are some of my interests and I enjoy finding creative ways to apply engineering to real-world problems and everyday life.
 
-Right now, I’m a MEng Mechatronics and Robotics student at The University of Hull, diving deep into medical robotics, mechatronics, and hardware/software building alongisde 3D printing. When I’m not studying, I’m working on side projects that further my understanding of engineering, spending time with my partner or playing video games.
+Right now, I’m an MEng Mechatronics and Robotics student at The University of Hull, diving deep into medical robotics, mechatronics, and hardware/software building alongisde 3D printing. When I’m not studying, I’m working on side projects that further my understanding of engineering, spending time with my partner or playing video games.
 
 
 📩 Email me at harveyjay@tuta.io
+
 What I’m Working On:
 
     📱 Short-term: Repairing/Hacking handheld devices

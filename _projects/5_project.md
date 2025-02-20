@@ -4,7 +4,7 @@ title: Exoskeleton Rehabilitation - In Progress
 description: Exoskeleton Rehabilitation Arm.
 img: assets/img/1.jpg
 importance: 1
-category: work
+category: Work
 ---
 
 THIS PROJECT HAS TO BE PRIVATE UNTILL OUR DEGREE IS FINISHED. EXPECT TO SEE IT JUNE.

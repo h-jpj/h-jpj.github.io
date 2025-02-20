@@ -4,7 +4,7 @@ title: Custom Pokemon Game
 description: Custom Pokémon game featuring new abilities, mega Pokémon sprites, and community-driven enhancements.
 img: assets/img/emeraldlogo.jpg
 importance: 3
-category: fun
+category: Personal
 ---
 
 This project is a custom Pokémon game based on the RHH Expansion Team's fork of the Pokeemerald Decomp Project by the PRET team. I extended the base game by adding new features and mechanics, contributing custom code, and working with community-driven branches to improve the game's functionality. 
@@ -43,7 +43,7 @@ One of the most complex aspects was managing merge conflicts, which was.... stre
     </div>
 </div>
 <div class="caption">
-    Displays code base and github file display
+    Displays code base and github file display. Open images with a right click, open in new tab for better quality.
 </div>
 
 Working with such a large codebase gave me a deeper understanding of both development and the intricacies of open-source collaboration. The project forced me to adopt a disciplined approach to version control, code reviews, documentation and learning to use git in general.
