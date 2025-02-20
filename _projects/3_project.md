@@ -55,7 +55,7 @@ Key features include:
     Affordable and adaptable design, integrating off-the-shelf electronics
     Iterative prototyping and testing, ensuring user comfort and effectiveness
 
-For a video demonstration and explaination please visit --> https://youtu.be/kdPMILNz63c
+For a video demonstration and explaination please visit --> https://youtu.be/fvjQvGMQ1VU
 
 This device aims to empower caregivers and patients with home-based rehabilitation options, complementing traditional therapy methods. The stroke rehabilitation device provides a low-cost, customizable solution for stroke patients to continue rehabilitation at home. Although challenges like achieving a full hand strech remain, the device complements traditional therapy methods and enhances the patient’s recovery process in theory. This project shows the potential of neuroplasticity-driven rehabilitation technologies to support stroke survivors in their journey to regain hand function at home, additionally hoping to relief pressure off of the UK's NHS.
 
